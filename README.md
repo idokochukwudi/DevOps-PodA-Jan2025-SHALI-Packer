@@ -77,7 +77,7 @@ Ensure Packer is installed for AMI creation.
 
 1. **Check if Packer is installed:**
    
-   Run:
+   **Run:**
 
    ```
    packer --version
@@ -87,7 +87,7 @@ Ensure Packer is installed for AMI creation.
    
 - **For Linux/macOS:**
 
-    Run:
+    **Run:**
 
     ```
     curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
